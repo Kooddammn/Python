@@ -1,0 +1,2 @@
+Hi this is the source file , content of this file needs to be copied 
+into the new destination file

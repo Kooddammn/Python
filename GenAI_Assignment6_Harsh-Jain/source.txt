@@ -1,0 +1,4 @@
+Hey My name is Harsh.
+This is assignment 6 for gen ai course
+now running the program to print first three lines of this file
+After the first three, other line will be neglected
